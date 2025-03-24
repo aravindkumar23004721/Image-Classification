@@ -99,9 +99,11 @@ def train_model(model, train_loader, optimizer, criterion, num_epochs=3):
 
 ![Screenshot 2025-03-24 092535](https://github.com/user-attachments/assets/c1361995-988a-4718-9a22-895042cacda7)
 
+
 ### Confusion Matrix
 
 ![Screenshot 2025-03-24 092554](https://github.com/user-attachments/assets/cbdc3437-350e-4a54-8842-1dfc2cf64217)
+
 
 ### Classification Report
 
@@ -111,6 +113,7 @@ def train_model(model, train_loader, optimizer, criterion, num_epochs=3):
 ### New Sample Data Prediction
 
 ![Screenshot 2025-03-24 103735](https://github.com/user-attachments/assets/439bb092-3805-4110-9131-3e8adbd4661b)
+
 
 ## RESULT
 Thus, We have developed a convolutional deep neural network for image classification to verify the response for new images.
