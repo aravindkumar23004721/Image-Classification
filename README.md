@@ -110,6 +110,7 @@ def train_model(model, train_loader, optimizer, criterion, num_epochs=3):
 ![Screenshot 2025-03-24 092622](https://github.com/user-attachments/assets/f5391a33-f669-4ae8-af57-7626f5c446e2)
 
 
+
 ### New Sample Data Prediction
 
 ![Screenshot 2025-03-24 103735](https://github.com/user-attachments/assets/439bb092-3805-4110-9131-3e8adbd4661b)
