@@ -36,8 +36,8 @@ Save the trained model for future use and visualize predictions on sample test i
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name:Aravind Kumar SS
+### Register Number:212223110004
 ```python
 class CNNClassifier(nn.Module):
   def __init__(self): # Define __init__ method explicitly
